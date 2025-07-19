@@ -1,6 +1,6 @@
 # Velocity Command Generation for AMR Navigation
 
-This repository contains the implementation of a velocity command generation system for Autonomous Mobile Robots (AMRs) without using ROS (Robot Operating System). The system is designed to calculate appropriate velocity commands based on the robot's current state and navigation goals.
+This repository contains the implementation of a velocity command generation system for Autonomous Mobile Robots (AMRs). The system is designed to calculate appropriate velocity commands based on the robot's current state and navigation goals.
 
 ## Key Features
 
